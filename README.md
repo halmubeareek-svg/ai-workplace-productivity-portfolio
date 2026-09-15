@@ -40,11 +40,11 @@ Rather than presenting seven disconnected exercises, every section of this repos
 
 | | |
 |---|---|
-| **Trainee Name** | [Your name] |
+| **Trainee Name** | Hessa H. Almubeareek |
 | **Training Program** | L0-FGP — Generative AI for Workplace Productivity |
 | **Delivered by** | [SDAIA Academy](https://github.com/SDAIAAcademy) |
 | **Instructor** | Fahad Alqahtani |
-| **Date** | [Submission date] |
+| **Date** | 15/09/2026 |
 
 ---
 
