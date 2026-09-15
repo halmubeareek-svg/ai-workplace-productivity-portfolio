@@ -50,7 +50,7 @@ Rather than presenting seven disconnected exercises, every section of this repos
 
 ## 🎯 Project Overview
 
-This repository is my AI Workplace Productivity Portfolio, built around my role as a **Business Analyst**. It organizes and documents the practical generative AI skills I practiced across the three days of training — structured prompting, professional writing, information processing, planning, verification, and responsible use — all applied to real consulting tasks like client updates, meeting-note synthesis, and engagement planning.
+This repository is my AI Workplace Productivity Portfolio, built around my role as a **Business Analyst**. It organizes and documents the practical generative AI skills I practiced across the three days of training — structured prompting, professional writing, information processing, planning, verification, and responsible use — all applied to real analysis tasks like client updates, meeting-note synthesis, and engagement planning.
 
 ## 🧭 Selected Workplace Scenario
 
