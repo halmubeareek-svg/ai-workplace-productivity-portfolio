@@ -1,10 +1,10 @@
 <div align="center">
 
 # AI Workplace Productivity Portfolio
-### Business Consultant
+### Business analysis
 
 ![Program](https://img.shields.io/badge/PROGRAM-L0--FGP-0B2545?style=for-the-badge)
-![Role](https://img.shields.io/badge/ROLE-Business%20Consultant-1F8A4C?style=for-the-badge)
+![Role](https://img.shields.io/badge/ROLE-Business%20Analysis-1F8A4C?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-Complete-E8A33D?style=for-the-badge)
 [![SDAIA Academy](https://img.shields.io/badge/SDAIA%20Academy-GitHub-0B2545?style=for-the-badge&logo=github)](https://github.com/SDAIAAcademy)
 
@@ -16,7 +16,7 @@
 
 ## 📌 Project Description
 
-This repository is the final capstone deliverable for **L0-FGP — Generative AI for Workplace Productivity**, delivered by **SDAIA Academy** ([github.com/SDAIAAcademy](https://github.com/SDAIAAcademy)). It is a documentation-based portfolio — not a software application — that captures, organizes, and demonstrates the applied generative-AI skills built across the program's three training days, reframed around one consistent professional identity: a **Business Consultant** managing a live client engagement.
+This repository is the final capstone deliverable for **L0-FGP — Generative AI for Workplace Productivity**, delivered by **SDAIA Academy** ([github.com/SDAIAAcademy](https://github.com/SDAIAAcademy)). It is a documentation-based portfolio — not a software application — that captures, organizes, and demonstrates the applied generative-AI skills built across the program's three training days, reframed around one consistent professional identity: a **Business Analysis** managing a live client engagement.
 
 Rather than presenting seven disconnected exercises, every section of this repository follows a single running scenario — from structuring the first client email, through turning messy meeting notes into a partner-ready brief, planning a new advisory service, verifying a risky claim before it reaches a client, and applying responsible-AI judgment to what can and cannot be shared. The goal is to show *applied competency*, not just familiarity with the concepts.
 
@@ -50,11 +50,11 @@ Rather than presenting seven disconnected exercises, every section of this repos
 
 ## 🎯 Project Overview
 
-This repository is my AI Workplace Productivity Portfolio, built around my role as a **Business Consultant**. It organizes and documents the practical generative AI skills I practiced across the three days of training — structured prompting, professional writing, information processing, planning, verification, and responsible use — all applied to real consulting tasks like client updates, meeting-note synthesis, and engagement planning.
+This repository is my AI Workplace Productivity Portfolio, built around my role as a **Business Analysis**. It organizes and documents the practical generative AI skills I practiced across the three days of training — structured prompting, professional writing, information processing, planning, verification, and responsible use — all applied to real consulting tasks like client updates, meeting-note synthesis, and engagement planning.
 
 ## 🧭 Selected Workplace Scenario
 
-I work as a **Business Consultant**, managing client engagements from kickoff through delivery. Throughout this portfolio, the running scenario is a mid-size consulting engagement: communicating with a client sponsor, turning messy call notes into decisions the partner can act on, planning a new advisory service, and applying responsible-use and verification habits to everything before it goes out under my name.
+I work as a **Business Analysis**, managing client engagements from kickoff through delivery. Throughout this portfolio, the running scenario is a mid-size consulting engagement: communicating with a client sponsor, turning messy call notes into decisions the partner can act on, planning a new advisory service, and applying responsible-use and verification habits to everything before it goes out under my name.
 
 ## 🧩 Course Skills Demonstrated
 
